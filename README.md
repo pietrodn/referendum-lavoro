@@ -1,6 +1,8 @@
 # referendum-lavoro
 
-Questo progetto serve ad illustrare le differenze nel quadro normativo italiano che sarebbero introdotte dai [tre referendum abrogativi promossi dalla CGIL](http://www.internazionale.it/notizie/2016/12/22/referendum-jobs-act-cgil) riguardanti il lavoro.
+*Leggere le diff per votare informati.*
+
+Questo progetto ha lo scopo di illustrare le differenze nel quadro normativo italiano che sarebbero introdotte dai [tre referendum abrogativi promossi dalla CGIL](http://www.internazionale.it/notizie/2016/12/22/referendum-jobs-act-cgil) riguardanti il lavoro, per arrivare preparati all'eventuale voto.
 
 Il testo dei quesiti, come per ogni referendum abrogativo italiano, non permette di cogliere immediatamente i cambiamenti che sarebbero introdotti nelle leggi se i referendum fossero approvati.
 
