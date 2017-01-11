@@ -19,7 +19,9 @@ Se avete suggerimenti, lasciate una [issue](https://github.com/pietrodn/referend
 * I testi normativi sono stati riformattati in file Markdown per renderli leggibili.
 * Al testo della legge vigente ho applicato le modifiche descritte dal testo dei quesiti referendari.
 
-## Primo referendum: art. 18
+## ~~Primo referendum: art. 18~~
+
+**[Dichiarato inammissibile](http://www.cortecostituzionale.it/documenti/comunicatistampa/CC_CS_20170111143402.pdf) dalla Corte Costituzionale in data 2017-01-11.**
 
 * [Quesito del referendum depositato (Gazzetta Ufficiale)](http://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2016-03-23&atto.codiceRedazionale=16A02411)
 
